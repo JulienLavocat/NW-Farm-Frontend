@@ -1,0 +1,68 @@
+[
+	{
+		"y": 4214.787,
+		"x": 8895.444,
+		"name": "ui_poi_town_everfall",
+		"icon": "township"
+	},
+	{
+		"y": 1923.526,
+		"x": 7924.891,
+		"name": "ui_poi_town_cutlass_keys",
+		"icon": "township"
+	},
+	{
+		"y": 757.561,
+		"x": 8833.27,
+		"name": "ui_poi_town_first_light",
+		"icon": "township"
+	},
+	{
+		"y": 2718.424,
+		"x": 9351.972,
+		"name": "ui_poi_town_windsward",
+		"icon": "township"
+	},
+	{
+		"y": 3714.371,
+		"x": 7364.805,
+		"name": "ui_poi_town_monarchs_bluffs",
+		"icon": "township"
+	},
+	{
+		"y": 6329.55,
+		"x": 9565.524,
+		"name": "ui_poi_town_brightwood",
+		"icon": "township"
+	},
+	{
+		"y": 5332.724,
+		"x": 11452.477,
+		"name": "ui_poi_town_weavers_fen",
+		"icon": "township"
+	},
+	{
+		"y": 4444.514,
+		"x": 12983.332,
+		"name": "ui_poi_town_restless_shore",
+		"icon": "township"
+	},
+	{
+		"y": 6976.256,
+		"x": 13163.402,
+		"name": "ui_poi_town_mourningdale",
+		"icon": "township"
+	},
+	{
+		"y": 3290.75,
+		"x": 10987,
+		"name": "ui_poi_town_reekwater",
+		"icon": "township"
+	},
+	{
+		"y": 5388,
+		"x": 7270,
+		"name": "ui_poi_town_ebonscale_reach",
+		"icon": "township"
+	}
+]
